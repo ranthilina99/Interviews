@@ -1,5 +1,3 @@
-Omobio Trainee Fullstack Developer Practical Test
-============================
 
 ## Get started
 
